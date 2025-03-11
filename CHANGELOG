@@ -1,0 +1,543 @@
+Update v0.07 - 1/5/2024
+* Clicker Pass
+* Server Boost
+* Tokens
+* Global Leaderboard
+* Some Ui Changes
+* Rebirth Upgrades Preview
+
+Update v0.08 - 19/5/2024
+* Nerfed Rebirth Upgrades
+* Keybinds
+* New Building
+ * State
+ * Output: 44M$
+ * Price: 4.5T$
+* Increased Daily Shop Prices
+* Tip Cooldown: 1 Min - 5 Min
+* Only 1 Tab Shown At A Time
+* x1 And x10 In Level Upgrades Are White When They Are Selected
+
+Update v0.10 Part 1 - 6/6/2024
+* Huge nerf to Rebirth Upgrades
+* New Code: 1kVisits
+* Guide 
+* Mastery
+* New Building
+   * Federation
+  * Yield: 7.5B$
+  * Price: 750Qu$
+* Nerfed the yield from Buildings
+* Fixed server leaderboard bug
+
+# Update v0.10 Part 2 - 11/6/2024
+* New rebirth upgrades
+  * 25 Cash Click Upgrades
+  * 29 Building Cash Upgrades
+  * 7 Xp Boost Upgrades
+* Nerfed prestige boost
+* New code: 10kVisits
+* XP is boosted by prestige boost
+* Rebirth price change: 1T - 100B
+* Fixed some bugs
+* Removed boost based on the number of players in the server
+* Added Trophies
+* New achievements
+* Increased the price for a Clicker Pass tier
+
+Update v0.11 - 19/6/2024
+* Buffed rebirth upgrades boost
+* Music
+* New Codes:
+  * 50kVisits
+  * 100kVisits
+  * FreePotions
+  * Potions
+* Potions
+  * Click Cash Potion I, II, III
+  * Buildings Cash Potion I, II, III
+  * XP Potion I, II, III
+  * Mastery Potion I, II, III
+* Nerfed Buildings yield
+* Fixed Some Bugs
+* Server upgrade price doesn't increase
+* Increased Server Upgrades Price
+
+Update v0.12 - 27/6/2024
+* New Rebirth Upgrade
+  * 10 Cash Click Upgrades 
+  * 10 Building Cash Upgrades
+* New Codes:
+  * Update12
+  * IVPotion
+* New Potions:
+  * Click Cash Potion IV, V
+  * Buildings Cash Potion IV, V
+  * XP Potion IV, V
+  * Mastery Potion IV, V
+* Mastery Potion
+* New Building
+  * Small Planet
+  * Yield: 5.75B
+* Rebirth Boost
+* Rebirth price is linear
+* Increased the potion boost
+* Claim All on Clicker Pass Bonus Reward
+* x10, x100 to Server Upgrades
+* Increased Server Upgrade Price
+* Craft All for Potions
+
+Update v0.13 - 4/7/2024
+* New Rebirth Upgrade
+  * 10 Cash Click Upgrades 
+  * 10 Building Cash Upgrades
+* New Codes:
+  * Update13
+  * VIPotion
+  * July4
+* New Potions:
+  * Click Cash Potion VI, VII
+  * Buildings Cash Potion VI, VII
+  * XP Potion VI, VII
+  * Mastery Potion VI, VII
+* New Building
+  * Medium Planet
+  * Yield: 27.5B
+* Potion Shop
+* Reworked Gem buy , Token buy
+* New Dollar
+* New Currency
+  * Gold Coin
+
+Update v0.14 - 12/7/2024
+* New Rebirth Upgrade
+  * 11 Click Cash Upgrades 
+  * 10 Building Cash Upgrades
+* New Codes:
+  * Update14
+* Potion Shop
+* Lowered Rebirth Price
+* New Season
+  * Clockwork Cash
+  * New dollars:
+    * Clockwork Dollar
+    * Timeless Dollar
+* Ascension
+  * 1B Rebirth Points = 1 Ascended Point
+* New Currency
+  * Ascended Points
+* Ascension Upgrades
+  * 25 Click Cash Upgrades
+  * 25 Buildings Cash Upgrades
+  * 8 XP Upgrades
+* Fast buy for rebirth upgrades only after ascension
+
+Update v0.15 - 21/7/2024
+* New Ascended Upgrades
+  * 11 Click Cash Upgrades 
+  * 10 Building Cash Upgrades
+* New Codes:
+  * Update15
+* Relics
+* UI Rework
+* Buildings Upgrades
+  * Clicker and Mouse Yeild Upgrades
+  * Tax Yeild Upgrades
+  * Money Printer Yeild Upgrades
+  * Factory Yeild Upgrades
+  * Bank Yeild Upgrades
+  * Stock Market Yeild Upgrades
+  * Real Estate Yeild Upgrades
+  * Company Yeild Upgrades
+  * Town Yeild Upgrades
+  * Building Upgrades are available every 50 building ( every 50 Clicker, 50 Tax, etc) 
+  * Building Upgrades are reseted once rebirthing
+* Equipments Change
+  * Clicker Image Change
+  * Tax Image Change
+* Buildings Yeild Nerfed
+
+Update v0.16 - 28/7/2024
+* New Codes:
+  * Update16
+* New Relic
+  * Gem Relic
+* UI Rework 
+* Equipments Change
+  * Dollar Image Change
+  * Hand Creeam Image Change
+* New Equipments
+  * 4 Hand Creeams
+  * 5 Clickers
+  * 5 Taxes
+* Changed the boost of Clickers and Taxes
+* Exchange All
+
+Update v0.17 - 11/8/2024
+* New Codes:
+  * Update17
+* Data Reset
+* Datastore into Profile Service
+* New Season
+  * Berry Season
+* Worlds !
+  * Plains World (Default World)
+  * Desert World
+  * Ice World
+  * Berry World
+  * Lava World
+  * Ocean World
+* Buy multiple potions
+* New Rebirth Upgrades
+* Changed Season Boost
+* New info at Server Leaderboard
+* Buy All Rebirth Upgrades
+* New Rebirth Buttons
+* Building Upgrades don't reset when rebirthing
+* Increased gems yeild from buy gems
+* Increased tokens yeild from buy tokens
+* Increased the price of server upgrades
+
+Update v0.18 - 29/8/2024
+* New Codes:
+  * Update18
+* New Worlds
+  * Crystal World
+  * Desert World
+* New Ascended Upgrades
+* Removed the duplicates ascended upgrades
+* Title Changer
+* Server Leaderboard Change
+* New Relics
+* Right Click on potions to remove it
+* Combo:
+  * Combo Boost
+  * Combo resets every 20 seconds
+* Building Upgrades reset when rebirthing
+* Ascended Point price increased
+* Buy keys from gem shop
+* Level Price formule changed
+* Fixed some bugs
+
+Patch Note v0.18.1 - 31/8/2024
+* Fixed the Clicker Pass Tier 
+* Leveling up doesn't give you gems 
+* Fixed some bugs
+
+Patch Note v0.18.2 - 1/9/2024
+* Leveling up give you gems 
+* Gems gained from leveling up is halved
+* Combo last for 25 seconds instead of 20 seconds
+
+Update v0.19 - 14/9/2024
+* New Codes:
+  * Update19
+* New Worlds:
+  * Toxic World
+  * Sunken City World
+* New Ascended Upgrades
+* New Clicker Pass Season
+  * Celestial Vault
+  * Solar System Dollar
+  * Celestial Dollar
+* Empowering:
+  * 1T Ascended Points = 1 Empowered Point
+* New Currency:
+  * Empowered Points
+* Empowered Upgrades:
+  * 53 Building Upgrades
+  * 54 Clicking Upgrades
+  * 47 XP Upgrades
+* Relics Rebirth:
+  * +5% every time you rebirth a relic
+  * Starting price: 150k Gems
+  * +150k Gems for every rebirth
+* Plains World redesign
+* New Rebirth Buttons
+* Server Upgrades: Price increases every 1000 upgrades bought
+* Level price formula changed again
+* Fast buy for ascended upgrades available only after empowering
+* Bug fixes
+
+Patch Note v0.19.1 - 28/9/2024
+* Reset Total Cash
+* Rebirth Upgrades Boost Nerfed:
+   * Building Upgrade: x1.5
+   * Click Upgrade: x1.4
+   * XP Upgrade: x1.35
+* Ascended Upgrades Boost Nerfed:
+   * Building Upgrade: x3.5
+   * Click Upgrade: x3.35
+   * XP Upgrade: x3.20
+* Empowered Upgrades Boost Nerfed:
+   * Building Upgrade: x7.05
+   * Click Upgrade: x6.8
+   * XP Upgrade: x6.5
+* 325B Ascended Points = 1 Empowered Point
+* Celestial and Divine Hand Creams are now saving
+* Prices for rebirth and ascension have been changed
+
+Update v0.20 - 20/10/2024
+* New Empowered Upgrades
+  * 48 Click Cash Upgrades
+  * 48 Building Cash Upgrades
+* Prestige Upgrades:
+  * Click Cash Upgrade
+  * Xp Boost Upgrade
+  * Prestige Points Upgrade
+  * + more upgrades to come !
+* Prestige for Prestige Points
+* Halloween Event!
+  * Halloween Candy
+  * 4 Halloween Special Equipments:
+    * Halloween Dollar
+    * Halloween Hand Cream
+    * Halloween Clicker
+    * Halloween Tax
+* Nerfed Buildings Yield
+* New World
+  * Halloween World
+* Nerfed World Boost
+* Removed Max Level For Some Mastery
+  * Click Mastery
+  * Building Mastery
+  * XP Mastery
+* Server Upgrades Change:
+   * Price increase changes from +15% to +20%
+   * Price increases every 1750 upgrades purchased
+
+Patch Note v0.20.1 - 31/10/2024
+* New Empowered Upgrades
+  * 26 Click Cash Upgrades
+  * 26 Building Cash Upgrades
+* Redesigned exchange tab
+* Exchange Halloween Candy for Gems
+* Nerfed Rebirth, Ascended, and Empowered Boosts
+* Increased prices for Rebirth, Ascended, and Empowered upgrades
+* Ascended Points price increase based on the total number of Ascended upgrades purchased
+* Empowered Points price increase based on the total number of Empowered upgrades purchased
+* Increased the max limit for global leaderboard (1e307 max)
+
+Update v0.21 - 22/11/2024
+* Halloween Event End
+* New Relics
+  * Rebirth Points Relic
+  * Ascended Points Relic
+  * Empowered Points Relic
+* The 3rd Relic Equipment
+* Rewrote Relic Scripts
+* New Shop Category
+  * Exotic Shop
+    * Sun Dollar
+      * Redesign
+      * Price: 625k Tokens
+    * Life Ring Dollar
+      * Redesign
+      * Price: 1M Tokens
+* Title now appears in Server Leaderboard
+* Fixed titles color
+* New Season
+  * Underwater Clicker
+    * Bubbles Dollar
+    * Fish Dollar
+
+Update v0.22 - 25/12/2024
+* New Codes
+  * Update22
+  * CrateRework
+* Crates Rework
+  * Common Crate
+    * 100 Gems
+    * 250 Gems
+    * Common Hand Cream
+    * Crystal Dollar
+    * Common Clicker
+    * Common Tax
+  * Rare Crate
+    * 250 Gems
+    * 425 Gems
+    * Rare Hand Cream
+    * Silver Dollar
+    * Rare Clicker
+    * Rare Tax
+  * Epic Crate
+    * 425 Gems
+    * 675 Gems
+    * Epic Hand Cream
+    * Gold Dollar
+    * Epic Clicker
+    * Epic Tax
+  * Elite Crate
+    * 675 Gems
+    * 725 Gems
+    * Elite Hand Cream
+    * Platinum Dollar
+    * Elite Clicker
+    * Elite Tax
+  * Insane Crate
+    * 725 Gems
+    * 850 Gems
+    * Insane Hand Cream
+    * Diamond Dollar
+    * Insane Clicker
+    * Insane Tax
+
+Update v0.23 - 9/1/2025
+* New Codes
+  * NewEquipment
+  * Update23
+* New Achievement System 
+* New Building
+  * Large Planet
+    * Price: 2.75Sx
+    * Yield: 17.69B
+* New Building Upgrades
+  * City Upgrades
+  * State Upgrades
+  * Country Upgrades
+  * More will come in v0.24
+* New Equipments
+  * More will come in v0.24
+* Some performances fixes
+
+Update v0.24 - 13/1/2025
+* New Code
+  * Update24
+* Huge Redesign
+  * Building Upgrades Panel has been removed
+  * Codes Panel has been removed
+  * Building Upgrades appear on the main screen above the Buildings
+  * Potion Display positon has been changed
+  * The Dollar position has been changed
+  * Code Redeemer has been moved in Settings Panel
+  * Some Panel Buttons have been compacted in a category
+    * Inventory:
+      * Equipments
+      * Crates 
+      * Relics 
+      * Trophies 
+      * Potions
+    * Inventory:
+      * Achievement
+      * Stat Upgrade 
+      * Prestige Upgrades 
+      * Playtime Rewards 
+      * Mastery
+* New Building Upgrades
+  * Empire
+  * Federation
+  * More will come in v0.25
+* New Equipment
+  * Bank
+  * Stock Market
+  * Real Estate
+  * More will come in v0.25
+* New Season
+  * Beach Bonanza
+    * Rubber Duck Dollar
+    * Beach Ball Dollar
+* Performance Fixes
+
+Patch Note v0.24.1 - 18/1/2025
+* Offline gains system
+   * 25% of your CPS for every second Offline
+* Fixed a bug
+
+Update v0.25 - 28/1/2025
+* New Code
+  * Update25
+* Refferal System
+  * Invite A Friend and get 100k Gems
+  * Invited Friend gets 25k Gems
+* Rebirth, Ascended , Empowered Buttons Changed
+* 3 New Building Upgrades 
+* 5 New Equipments
+* Added 10 New Equipments In The Crate Drop Chance
+* Changed The Craft Potion System
+
+ Patch Note v0.25.1 - 29/1/2025
+* Bug Fixes
+* Gem Counter added
+* Token Counter added
+* Achievement Reward Nerfed
+* Buildings Hover Changes
+* Some Animations Additions
+
+Update v0.26 - 17/2/2025
+* New Code
+  * Update26
+* Gift Gamepass System
+* Some Gamepass price changes
+* New Season !
+  * Nature's Reign
+    * Flower Dollar
+    * Forest Dollar
+* Skip Tier Button 
+* New Prestige Upgrade 
+  * Combo Boost Upgrade
+    * +1% to Combo Boost
+* New Equipment
+  * Empire
+  * Federation
+  * More Coming in v0.27
+
+Patch Note v0.26.1 - 21/2/2025
+* Changed Number of Daily Shop Equipment:
+  * 3 Daily -> 5 Daily
+* Fixed The Products and Gifts
+* Clicker Pass Gift
+* Fixed the x10 Button Not Glowing
+
+Update v0.27 - 5/3/2025
+* New Code:
+   * Update27
+* Playtime Reward Streak
+* Playtime Reward easier to access
+* New Empowered Upgrades
+   * 119 Click Cash Upgrades
+   * 119 Building Cash Upgrades
+* Enriched Upgrades
+   * 50 Click Cash Upgrades
+   * 49 Building Cash Upgrades
+   * 10 XP Upgrades
+* 3 New Equipments
+   * Small Planet
+   * Medium Planet
+   * Large Planet
+* Nerfed Buildings Yield
+* Fixed the Tax Equipment Bug
+
+Update v0.28 - 11/3/2025
+* New Code:
+   * Update28
+* Clicker Pass Rework
+   * Removed Season Boost
+   * Season Boost replaced by Crates
+* New Season 
+   * Crystal Kingdom
+     * Pink Gem Crystal
+     * Blue Gem Crystal
+* Crates Rework
+   * Removed Craft Crate
+   * Common Crate 
+     * Min Drops: 4
+     * Max Drops: 6
+   * Rare Crate 
+     * Min Drops: 6
+     * Max Drops: 8
+   * Epic Crate 
+     * Min Drops: 8
+     * Max Drops: 12
+   * Elite Crate 
+     * Min Drops: 12
+     * Max Drops: 16
+   * Insane Crate 
+     * Min Drops: 16
+     * Max Drops: 20
+   * Potions from Crates
+   * Buy Crates from the Shop
+* Trading System coming in v0.28
+* Own Multiple of the same Equipment
+* New Dollars in Exotic Shop !
+   * Glitch Diamond Dollar
+   * Glitch Silver Dollar
